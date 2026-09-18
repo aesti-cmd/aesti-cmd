@@ -18,9 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aesti-cmd&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=aesti-cmd&icon=7&color=5)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Aesti_art) 
 
