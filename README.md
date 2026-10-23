@@ -15,8 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🕵️ TryHackMe
-[![TryHackMe](https://raw.githubusercontent.com/aesti-cmd/aesti-cmd/main/assets/thm_propic.png)](https://tryhackme.com/p/staseviciute.aiste)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/staseviciute.aiste)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aesti-cmd&limit=5&theme=rose&combine_all_yearly_contributions=true)
