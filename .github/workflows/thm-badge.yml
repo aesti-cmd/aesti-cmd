@@ -17,7 +17,7 @@ jobs:
       - name: Download badge
         run: |
           mkdir -p assets
-          curl -fsSL "https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" -o assets/thm-badge.png
+          curl -fsSL "https://tryhackme-badges.s3.amazonaws.com/staseviciute.aiste.png" -o assets/thm-badge.png
 
       - name: Commit if changed
         run: |
